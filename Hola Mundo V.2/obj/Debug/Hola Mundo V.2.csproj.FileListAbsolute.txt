@@ -1,0 +1,8 @@
+C:\Users\Nahue\Documents\SharpDevelop Projects\Hola Mundo V.2\Hola Mundo V.2\obj\Debug\Hola Mundo V.2.csprojResolveAssemblyReference.cache
+C:\Users\Nahue\Documents\SharpDevelop Projects\Hola Mundo V.2\Hola Mundo V.2\obj\Debug\Hola_Mundo_V._.MainForm.resources
+C:\Users\Nahue\Documents\SharpDevelop Projects\Hola Mundo V.2\Hola Mundo V.2\obj\Debug\Hola Mundo V.2.csproj.GenerateResource.Cache
+C:\Users\Nahue\Documents\SharpDevelop Projects\Hola Mundo V.2\Hola Mundo V.2\bin\Debug\Hola Mundo V.2.exe.config
+C:\Users\Nahue\Documents\SharpDevelop Projects\Hola Mundo V.2\Hola Mundo V.2\bin\Debug\Hola Mundo V.2.exe
+C:\Users\Nahue\Documents\SharpDevelop Projects\Hola Mundo V.2\Hola Mundo V.2\bin\Debug\Hola Mundo V.2.pdb
+C:\Users\Nahue\Documents\SharpDevelop Projects\Hola Mundo V.2\Hola Mundo V.2\obj\Debug\Hola Mundo V.2.exe
+C:\Users\Nahue\Documents\SharpDevelop Projects\Hola Mundo V.2\Hola Mundo V.2\obj\Debug\Hola Mundo V.2.pdb
